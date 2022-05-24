@@ -1,8 +1,8 @@
 # flutter_firebase
 
-A new Flutter project.
+NIM     : 2031710027 <br /> Nama    : Alifia Shofa' Nabilah <br /> Kelas   : MI-2C <br /> Prodi   : D3-Manajemen Informatika
 
-## Getting Started
+## Hasil Praktikum
 ![1](https://user-images.githubusercontent.com/93021003/169971645-5a46e9e2-a29e-4eb7-9cb4-acaaf29aa93c.jpeg)
 ![2](https://user-images.githubusercontent.com/93021003/169971693-ec730d71-e297-4cca-a092-c7c230cefc58.jpeg)
 ![3](https://user-images.githubusercontent.com/93021003/169971731-99775a69-8233-4648-be01-f152b40b5294.jpeg)
